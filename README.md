@@ -12,6 +12,14 @@ Muestra la información del estudiante y consume la API pública de Dragon Ball 
 | Sección | B            |
 | Grupo   | 1            |
 
+## Descargar el APK
+
+[Descargar Perfil3_IanOrellana.apk](apk/Perfil3_IanOrellana.apk?raw=1)
+
+También se puede escanear este código QR desde el dispositivo Android:
+
+<img src="apk/qr-apk.png" alt="QR de descarga del APK" width="220" />
+
 ## Funcionalidades
 
 - **Splash screen e icono personalizados** (esfera del dragón de 4 estrellas).
